@@ -392,6 +392,17 @@ h2 {
   background-color: white;
 }
 
+.bottom-readmore-image {
+  background-color: #E0F7FA; /* Optional background color */
+  flex-basis: 50%; /* Adjust as needed */
+}
+
+.bottom-readmore-image img {
+  width: 100%; /* Make the image responsive */
+  height: 250px; /* Maintain aspect ratio */
+  /*border-radius: 0.5rem; /* Optional: Add rounded corners */
+}
+
 /* ---------------------------------------------------- */
 
 address {
